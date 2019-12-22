@@ -1,0 +1,143 @@
+{
+  "ItemJsonList": [
+    {
+      "id": 1,
+      "name": "蓝瓶",
+      "itemType": "Consumables",
+      "itemQuality": "Advanced",
+      "itemCareer": "Universal",
+      "description": "加蓝",
+      "buyPrice": "10",
+      "sellPrice": "5",
+      "spritePath": "Sprite/Items/mp",
+      "maxNum": 10,
+      "hp": 0,
+      "mp": 50
+    },
+
+    {
+      "id": 2,
+      "name": "红瓶",
+      "itemType": "Consumables",
+      "itemQuality": "Advanced",
+      "itemCareer": "Universal",
+      "description": "加血",
+      "buyPrice": "10",
+      "sellPrice": "5",
+      "spritePath": "Sprite/Items/hp",
+      "maxNum": 10,
+      "hp": 50,
+      "mp": 0
+    },
+    {
+      "id": 3,
+      "name": "头盔",
+      "itemType": "Equipment",
+      "itemQuality": "Advanced",
+      "itemCareer": "Universal",
+      "description": "增加防御",
+      "buyPrice": "10",
+      "sellPrice": "5",
+      "spritePath": "Sprite/Items/helmets",
+      "maxNum": 1,
+      "defensivePower": 20,
+      "agility": 5,
+      "stamina": 20,
+      "equipmentType": "Helmet"
+    },
+    {
+      "id": 4,
+      "name": "盔甲",
+      "itemType": "Equipment",
+      "itemQuality": "Advanced",
+      "itemCareer": "Universal",
+      "description": "增加防御",
+      "buyPrice": "10",
+      "sellPrice": "5",
+      "spritePath": "Sprite/Items/armor",
+      "maxNum": 1,
+      "defensivePower": 50,
+      "agility": 5,
+      "stamina": 20,
+      "equipmentType": "Corselet"
+    },
+
+    {
+      "id": 5,
+      "name": "披风",
+      "itemType": "Equipment",
+      "itemQuality": "Advanced",
+      "itemCareer": "Universal",
+      "description": "增加防御",
+      "buyPrice": "10",
+      "sellPrice": "5",
+      "spritePath": "Sprite/Items/cloaks",
+      "maxNum": 1,
+      "defensivePower": 20,
+      "agility": 5,
+      "stamina": 20,
+      "equipmentType": "Cloak"
+    },
+    {
+      "id": 6,
+      "name": "裤子",
+      "itemType": "Equipment",
+      "itemQuality": "Advanced",
+      "itemCareer": "Universal",
+      "description": "增加防御",
+      "buyPrice": "10",
+      "sellPrice": "5",
+      "spritePath": "Sprite/Items/pants",
+      "maxNum": 1,
+      "defensivePower": 20,
+      "agility": 5,
+      "stamina": 20,
+      "equipmentType": "Trousers"
+    },
+
+    {
+      "id": 7,
+      "name": "鞋子",
+      "itemType": "Equipment",
+      "itemQuality": "Advanced",
+      "itemCareer": "Universal",
+      "description": "增加防御",
+      "buyPrice": "10",
+      "sellPrice": "5",
+      "spritePath": "Sprite/Items/boots",
+      "maxNum": 1,
+      "defensivePower": 20,
+      "agility": 5,
+      "stamina": 20,
+      "equipmentType": "Shose"
+    },
+    {
+      "id": 8,
+      "name": "长剑",
+      "itemType": "Weapon",
+      "itemQuality": "Advanced",
+      "itemCareer": "Universal",
+      "description": "增加攻击力",
+      "buyPrice": "10",
+      "sellPrice": "5",
+      "spritePath": "Sprite/Items/sword",
+      "maxNum": 1,
+      "damage": 100
+
+    },
+    {
+      "id": 9,
+      "name": "斧头",
+      "itemType": "Weapon",
+      "itemQuality": "Advanced",
+      "itemCareer": "Universal",
+      "description": "增加攻击力",
+      "buyPrice": "10",
+      "sellPrice": "5",
+      "spritePath": "Sprite/Items/axe",
+      "maxNum": 1,
+      "damage": 100
+
+    }
+  ]
+}
